@@ -71,7 +71,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
 ```
@@ -110,5 +109,6 @@ Hi there! I'm Rishi Vashista, a college student and aspiring Data Analyst. I'm p
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![Instagram](https://www.instagram.com/rishi_vashista?igsh=ZjQzajcxOW5oNWIx)
-[![LinkedIn](https://www.linkedin.com/in/rishi-vashista-488442312?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rishi_vashista/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-vashista-488442312/)
